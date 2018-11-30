@@ -1,0 +1,7 @@
+How to run this Project
+Database Configuration
+
+Open phpmyadmin
+Create Database library
+Import database library.sql 
+
